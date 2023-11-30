@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.customer{
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    color: blue;
+  }
+  
